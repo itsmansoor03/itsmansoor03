@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsmansoor03
 - 👀 I’m interested in mobile apps , and discover more abowt softwere and programming
-- 🌱 I’m currently learning flutter language 
-- 💞️ I’m looking to collaborate on flutter programming team
+- 🌱 I’m currently learning Asp.net core mvc  
+- 💞️ I’m looking to collaborate on Asp.net core mvc programming team
 - 📫 How to reach me ? mobile number : +962790360465
 
 <!---
